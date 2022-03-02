@@ -10,6 +10,9 @@ dependencies:
   sqflite: ^1.3.0
   path_provider: any
 
+module:
+  androidX: true
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
